@@ -1,0 +1,18 @@
+{
+    "name": "AttachmentBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://[::]:3978/api/messages",
+            "id": "d4e10d30-0c05-11ea-9b09-652f671dd01c",
+            "name": "AttachmentBot"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/anikaitsingh/Desktop/Programming/microsoftBot/botFrontend/AttachmentBot.bot",
+    "overrides": null
+}
